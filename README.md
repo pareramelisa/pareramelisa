@@ -58,35 +58,6 @@
 
 <hr />
 
-<h3>🚀 Featured Projects</h3>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Document AI Search & RAG Assistant</h4>
-      <p>End-to-end RAG system using FastAPI, LangChain, ChromaDB, and a Next.js streaming interface for semantic document search.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
-      </p>
-      <a href="https://github.com/pareramelisa"><b>View Repository »</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Real-time Transaction Dashboard</h4>
-      <p>Financial transaction monitoring system with Socket.IO, WebSockets, Next.js, and Tailwind CSS for real-time operations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      </p>
-      <a href="https://github.com/pareramelisa"><b>View Repository »</b></a>
-    </td>
-  </tr>
-</table>
-
-<hr />
-
 <div align="center">
   <p><i>Open to remote Full Stack and Frontend opportunities across LATAM and US/Global teams.</i></p>
 </div>
